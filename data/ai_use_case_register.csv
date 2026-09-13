@@ -1,0 +1,7 @@
+use_case_id,name,owner,tool,customer_id,data_categories,human_review,ai_supports_restricted_decision,disclosure_given,contract_restrictions_reviewed,approval_date
+UC-01,AI-Assisted Invoice Drafting,AP Team,Ledgerly Draft,C2,Customer billing records,Yes,No,No,No,2026-04-01
+UC-02,Contract Renewal Summarization,Legal Ops,ClearCase Assistant,C3,Customer contract text,Yes,No,No,Yes,2026-03-15
+UC-03,Claims Note Summarization,Care Ops,ScribeFlow AI,C4,Customer health records,Yes,No,NA,Yes,2026-02-10
+UC-04,Exception Flagging for Claims Review,Claims Ops,SentinelReview AI,C5,Customer claims data,Yes,Yes,NA,Yes,2026-01-20
+UC-05,Vendor Spend Forecasting,FP&A,TrendSight Analytics,C6,Customer project spend data,Yes,No,Yes,Yes,2026-06-01
+UC-06,AP Exception Routing,AP Team,AutoLedger Core,C1,Customer PO and invoice data,Yes,No,NA,Yes,2026-05-01

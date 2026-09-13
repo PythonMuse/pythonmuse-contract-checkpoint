@@ -1,0 +1,7 @@
+tool,retains_inputs,trains_by_default,can_disable_training,enterprise_tier_enabled
+Ledgerly Draft,No,No,NA,Yes
+ClearCase Assistant,Yes,No,Yes,Yes
+ScribeFlow AI,Yes,Yes,Yes,No
+SentinelReview AI,No,No,NA,Yes
+TrendSight Analytics,No,No,NA,Yes
+AutoLedger Core,No,No,NA,Yes
