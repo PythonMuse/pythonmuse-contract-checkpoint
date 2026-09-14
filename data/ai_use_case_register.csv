@@ -5,3 +5,7 @@ UC-03,Claims Note Summarization,Care Ops,ScribeFlow AI,C4,Customer health record
 UC-04,Exception Flagging for Claims Review,Claims Ops,SentinelReview AI,C5,Customer claims data,Yes,Yes,NA,Yes,2026-01-20
 UC-05,Vendor Spend Forecasting,FP&A,TrendSight Analytics,C6,Customer project spend data,Yes,No,Yes,Yes,2026-06-01
 UC-06,AP Exception Routing,AP Team,AutoLedger Core,C1,Customer PO and invoice data,Yes,No,NA,Yes,2026-05-01
+UC-07,Care Intake Note Drafting,Care Ops,DraftPilot Free,C4,Customer health records,Yes,No,NA,Yes,2026-03-01
+UC-08,Automated Claims Triage,Claims Ops,SentinelReview AI,C5,Customer claims data,No,Yes,NA,Yes,2026-02-01
+UC-09,Policy Renewal Letter Drafting,Customer Ops,ClearCase Assistant,C7,Customer contract text,Yes,No,NA,Yes,2026-04-15
+UC-10,Field Report Summaries,Ops,AutoLedger Core,C9,Customer field data,Yes,No,NA,Yes,2026-05-15
